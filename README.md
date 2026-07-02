@@ -6,7 +6,7 @@ A cinematic, interactive Batman-themed landing page built with React, Vite, and 
 
 ## Live Demo
 
-🔗 [https://comfy-granita-16a97c.netlify.app/](https://comfy-granita-16a97c.netlify.app/)
+🔗(https://batmanew.netlify.app/)
 
 ---
 
